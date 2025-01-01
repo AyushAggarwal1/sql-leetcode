@@ -1,6 +1,6 @@
-**Leetcode Problem No.** - 1757
-**Leetcode Link** - https://leetcode.com/problems/recyclable-and-low-fat-products/description
-**Problem statement** - Recyclable and Low Fat Products
+- **Leetcode Problem No.** - 1757
+- **Leetcode Link** - https://leetcode.com/problems/recyclable-and-low-fat-products/description
+- **Problem statement** - Recyclable and Low Fat Products
 ```
 +-------------+---------+
 | Column Name | Type    |
