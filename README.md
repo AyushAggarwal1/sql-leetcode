@@ -1,2 +1,2 @@
 # sql-leetcode
-https://leetcode.com/studyplan/top-sql-50/
+leetcode sql - https://leetcode.com/studyplan/top-sql-50/
