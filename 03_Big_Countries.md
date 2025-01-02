@@ -3,6 +3,7 @@
 - **Leetcode Link** - https://leetcode.com/problems/big-countries/description
 - **Problem statement** - Big Countries
 ```
+Table - World
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+

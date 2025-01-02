@@ -2,6 +2,7 @@
 - **Leetcode Link** - https://leetcode.com/problems/recyclable-and-low-fat-products/description
 - **Problem statement** - Recyclable and Low Fat Products
 ```
+Table - Products
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+

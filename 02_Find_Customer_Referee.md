@@ -3,6 +3,7 @@
 - **Leetcode Link** - https://leetcode.com/problems/find-customer-referee/description
 - **Problem statement** - Find Customer Referee
 ```
+Table - Customer
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
