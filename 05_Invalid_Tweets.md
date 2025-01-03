@@ -23,7 +23,6 @@ Return the result table in any order.
 **Solution** -
 ```
 # Write your MySQL query statement below
-# Write your MySQL query statement below
 SELECT
     tweet_id
 FROM 
