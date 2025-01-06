@@ -1,6 +1,6 @@
 - **Leetcode Problem No.** - 1068
 
-- **Leetcode Link** - https://leetcode.com/problems/product-sales-analysis-i/description
+- **Leetcode Link** - https://leetcode.com/problems/producˀt-sales-analysis-i/description
 - **Problem statement** - Product Sales Analysis 1
 ```
 Table: Sales
